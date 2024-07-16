@@ -1,19 +1,7 @@
-# vue_todo_ts_vuex
+## Учебный проект на Vue3, Vuex, TypeScript
 
-## Project setup
-```
-npm install
-```
+Здесь представлен простой todo-лист, в который можно дабавлять задачи, удалять их и менять текст задачи
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Educational project on Vue 3, Vuex, TypeScript
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Here is a simple todo list where you can add tasks, delete them, and change the task text
